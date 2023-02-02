@@ -7,6 +7,9 @@ I am a first year student at University of Essex currently studying Computer Gam
 
 #### I love connecting with people so if you want to say hi, i'll be happy to meet you! :)
 
+(http://linkedin.com/in/rufaida-kolia-917121210)
+
+
 ## Some of my work: (can be accessed through github)
 
 1. BookManager.py
